@@ -1,7 +1,7 @@
 #include <iostream>
 #include <iomanip>
 
-#include "sequence.h"
+#include "Sequence.h"
 
 //#define __GRADING  // Leave this commented out for your tests
 
