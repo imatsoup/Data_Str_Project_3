@@ -92,6 +92,9 @@ public:
 	/// @param n number of items to be erased
 	void erase(size_type p, size_type n = 1);
 
+	/// @return Creates a string made of the values of the elt of each node
+	string toString();
+
 	/// @brief Output the sequence. Do not change this declaration
 	/// @param os reference to an ostream object to output the sequence to
 	/// @param s Sequence object to be output 
